@@ -47,5 +47,7 @@ blockquote, q {
 /* end of clear css */
 
 body{width:100%; margin:auto; left:10px; right:10px;background-image:url(bgr-body.png) !important; background-repeat:repeat-x}
-.galleryImage{position:absolute; margin:0 auto;max-height:100%; max-width:100%; overflow:hidden}
+.galleryImage{position:absolute; margin:0 auto;height:100%;width:100%;overflow:hidden; text-align:center}
+.galleryImage img{height:100%; margin:0 auto}
+
 #gallery-menu{position:absolute; background-color:#FFFFFF;}
