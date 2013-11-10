@@ -1,0 +1,54 @@
+{
+"settings":
+{
+"theme":"standard",
+"type":"standard",
+"pagination":
+	{
+	"pagination":"true",
+	"itemsPerPage":"10"
+	}	
+},
+"imageData":
+{
+"image1":{
+"id":1,
+"src":"http://foodriot.com/wp-content/uploads/2013/06/bacon.jpg",
+"name":"name",
+"description":"description",
+"price":"price",
+"year":"year"
+}, 
+"image2":{
+"id":2,
+"src":"http://wjyy.nh1media.com/assets/images/Bacon.jpg",
+"name":"name",
+"description":"description",
+"price":"price",
+"year":"year"},
+
+"image3":{
+"id":3,
+"src":"http://www.shockinglydelicious.com/wp-content/uploads/2010/08/Is-anything-better-than-bacon...no_.jpg",
+"name":"name",
+"description":"description",
+"price":"price",
+"year":"year"},
+
+"image4":{
+"id":4,
+"src":"http://dailydoseoflies.files.wordpress.com/2011/04/caramelized-bacon-21.jpg",
+"name":"name",
+"description":"description",
+"price":"price",
+"year":"year"},
+
+"image5":{
+"id":5,
+"src":"http://images2.wikia.nocookie.net/__cb20110621163423/bacon/images/1/1e/Cooked_Bacon.jpg",
+"name":"name",
+"description":"description",
+"price":"price",
+"year":"year"}
+}
+}
