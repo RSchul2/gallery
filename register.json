@@ -14,6 +14,7 @@
 "image1":{
 "id":1,
 "src":"http://foodriot.com/wp-content/uploads/2013/06/bacon.jpg",
+"src":"http://foodriot.com/wp-content/uploads/2013/06/bacon.jpg",
 "name":"name",
 "description":"description",
 "price":"price",

@@ -1,12 +1,4 @@
-function initGallery(name,source,target)
-{
-gallery=new gallery(name,source,target)
-gallery.init()
-}
-
-
-
-
+function initGallery(name,source,target){gallery=new gallery(name,source,target).init()}
 function gallery(name,source,target)
 {
 var that= this
